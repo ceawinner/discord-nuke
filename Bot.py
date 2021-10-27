@@ -159,5 +159,5 @@ async def info(ctx, member: discord.Member=None):
     print("Action completed: User Info")
 #############################
 
-client.run("TOKEN")
+client.run("ODU1Njg5Mzg1NTI5MDQ5MTA4.YM2I1w.ciJXObjgaaGDYNES2Ilpzh4fOFM")
 # Place your Bot's token here
